@@ -29,4 +29,5 @@ fun main(args: Array<String>) {
     list.run {
         this?.add("王五")
     }
+    /*push测试*/
 }
